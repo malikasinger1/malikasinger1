@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+# This profile is moved to a new location:
+Please visit: https://github.com/mInzamamMalik
+
+
+![Cat pointing goto link above](./cat.jpg)
+
+
+
+
+
+
+
+
 <!--
 **malikasinger1/malikasinger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
